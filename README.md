@@ -1,6 +1,6 @@
 # homepage
 
-##NAME
+## NAME
 
   Yuchen Sang
   
