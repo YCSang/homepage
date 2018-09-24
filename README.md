@@ -1,7 +1,8 @@
 # homepage
 
 **NAME**
-  Yuchen Sang \n
+  Yuchen Sang
+  
 **Major**
   Integrated Science _in Yuanpei College_
 **Email Address**
