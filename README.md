@@ -4,14 +4,17 @@
 
   Yuchen Sang
   
-**MAJOR**
+## MAJOR
 
-  Integrated Science _in Yuanpei College_
+  Integrated Science (_in Yuanpei College_)
 
-**EMAIL ADDRESS**
+## EMAIL ADDRESS
 
   johnbirdsang@pku.edu.cn
 
-**TEL**
+## TEL
 
   +86 15652680606
+  
+## PHOTO
+  (Photo_of_me.jpg)
