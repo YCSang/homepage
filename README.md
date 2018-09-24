@@ -4,11 +4,11 @@
 
   Yuchen Sang
   
-**Major**
+**MAJOR**
 
   Integrated Science _in Yuanpei College_
 
-**Email Address**
+**EMAIL ADDRESS**
 
   johnbirdsang@pku.edu.cn
 
